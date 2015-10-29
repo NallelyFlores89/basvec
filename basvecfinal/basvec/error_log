@@ -1,0 +1,5 @@
+[06-Oct-2014 16:53:47 America/Mexico_City] PHP Fatal error:  Class 'JError' not found in /home/deklan06/public_html/basvec/includes/framework.php on line 36
+[06-Oct-2014 17:30:56 America/Mexico_City] PHP Warning:  Class '\Joomla\Registry\Registry' not found in /home/deklan06/public_html/basvec/libraries/loader.php on line 486
+[06-Oct-2014 17:30:56 America/Mexico_City] PHP Fatal error:  Class 'JRegistry' not found in /home/deklan06/public_html/basvec/libraries/joomla/application/web.php on line 117
+[06-Oct-2014 17:36:06 America/Mexico_City] PHP Warning:  Class '\Joomla\Registry\Registry' not found in /home/deklan06/public_html/basvec/libraries/loader.php on line 486
+[06-Oct-2014 17:36:06 America/Mexico_City] PHP Fatal error:  Class 'JRegistry' not found in /home/deklan06/public_html/basvec/libraries/joomla/application/web.php on line 117
